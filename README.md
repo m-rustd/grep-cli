@@ -10,3 +10,8 @@ cargo run abc pom.txt
 ```shell
 CASE_INSENSITIVE=1 cargo run abc pom.txt
 ```
+
+### 测试
+```shell
+cargo test
+```
